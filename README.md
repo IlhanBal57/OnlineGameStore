@@ -1,0 +1,1 @@
+This Java GUI project aims to visualize two fundamental data structures: linked lists and trees. Through an intuitive graphical interface, users can interact with and observe the behavior of these data structures in real-time.
